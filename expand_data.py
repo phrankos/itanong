@@ -43,7 +43,7 @@ Hello, I would like to ask you to generate a dataset about tariff rates or duty 
     "task": "duty_rate"
 }
 
-Please generate a minimum of 100 datapoints using the given the context. I will not be able to use the data if it is not in the specific format given. Please follow the given format strictly and do not respond with anything other than the requested answer. Avoid using any special characters in your answers.
+Please generate a minimum of 10 datapoints using the given the context. Please try to also use local provinces or cities in the Philippines. I will not be able to use the data if it is not in the specific format given. Please follow the given format strictly and do not respond with anything other than the requested answer. Avoid using any special characters in your answers.
 Use the delimeters "<data_start>" and "<data_end>" to separate the generated data. Please follow the format strictly.
 
 I have an example of the format that you will follow. Extract from the following context the minimal span word for word that best answers the question. Think step by step and explain your reasoning. Then give the answer in JSON format as follows:
@@ -181,11 +181,12 @@ def main(index):
         generated_dataset.append(generated_text)
 
         # Split the generated text into individual samples
+        print(generated_text)
         counter += 1
         print(f"Time taken: {time.time() - t}")
 
         # Save the generated dataset to a JSON file
-        save_path = f"llama3-gendata{index}.json"
+    save_path = f"llama3-gendata{index}.json"
     with open(save_path, "w") as f:
         json.dump(generated_dataset, f, indent=4)
 
