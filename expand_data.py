@@ -133,7 +133,7 @@ def main(index):
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
         torch_dtype="auto",
-        device="cpu",
+        device_map="auto",
 
         # quantization_config=bnb_config  # un-comment to quantize your model
     )
