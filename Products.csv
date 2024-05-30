@@ -1,0 +1,99 @@
+product_id,category_id,rate_MFN,rate_ATIGA,product_description,effective_year
+8011100,801,15,0,"Coconuts, Desiccated",2022
+8011200,801,10,0,"Coconuts, Fresh",2022
+8011910,801,10,0,"Coconuts, Young",2022
+8011990,801,10,0,"Coconuts, Other",2022
+8012100,801,7,0,"Brazil Nuts, In Shell",2022
+8012200,801,5,0,"Brazil Nuts, Shelled",2022
+8013100,801,3,0,"Cashew Nuts, In Shell",2022
+8013200,801,2,0,"Cashew Nuts, Shelled",2022
+8021100,802,3,0,"Almonds, In Shell",2022
+8021210,802,3,0,"Almonds, Shelled, Blanched",2022
+8021290,802,3,0,"Almonds, Shelled, Other",2022
+8022100,802,3,0,"Hazelnuts, In Shell",2022
+8022200,802,3,0,"Hazelnuts, Shelled",2022
+8023100,802,3,0,"Walnuts, In Shell",2022
+8023200,802,3,0,"Walnuts, Shelled",2022
+8024100,802,3,0,"Chestnuts, In Shell",2022
+8024200,802,3,0,"Chestnuts, Shelled",2022
+8025100,802,3,0,"Pistachios, In Shell",2022
+8025200,802,3,0,"Pistachios, Shelled",2022
+8026100,802,3,0,"Macadamia Nuts, In Shell",2022
+8026200,802,3,0,"Macadamia Nuts, Shelled",2022
+8027000,802,3,0,"Kola Nuts",2022
+8028000,802,3,0,"Areca Nuts",2022
+8029100,802,3,0,"Pine Nuts, In Shell",2022
+8029200,802,3,0,"Pine Nuts, Shelled",2022
+8029900,802,3,0,"Other Nuts",2022
+8031010,803,15,0,"Plantains, fresh",2022
+8031020,803,15,0,"Plantains, dried",2022
+8039010,803,15,0,"Lady's finger banana",2022
+8039020,803,15,0,"Cavendish banana (Musa acuminata)",2022
+8039030,803,15,0,"Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)",2022
+8039090,803,15,0,Other,2022
+8041000,804,3,0,Dates,2022
+8042000,804,3,0,Figs,2022
+8043000,804,10,0,Pineapples,2022
+8044000,804,15,0,Avocados,2022
+8045010,804,15,0,Guavas,2022
+8045021,804,15,0,"Mangoes, fresh",2022
+8045022,804,15,0,"Mangoes, dried",2022
+8045030,804,15,0,Mangosteens,2022
+8051010,805,10,0,"Oranges, fresh",2022
+8051020,805,10,0,"Oranges, dried",2022
+8052100,805,10,0,"Mandarins (including tangerines and satsumas)",2022
+8052200,805,10,0,Clementines,2022
+8052900,805,10,0,"Other mandarins, clementines, wilkings and similar citrus hybrids",2022
+8054000,805,7,0,"Grapefruit and pomelos",2022
+8055010,805,10,0,"Lemons (Citrus limon, Citrus limonum)",2022
+8055020,805,10,0,"Limes (Citrus aurantifolia, Citrus latifolia)",2022
+8059000,805,10,0,"Other citrus fruit",2022
+8061000,806,7,0,"Grapes, fresh",2022
+8062000,806,3,0,"Grapes, dried",2022
+8071100,807,15,0,Watermelons,2022
+8071900,807,15,0,"Other melons",2022
+8072000,807,15,0,"Papaws (papayas)",2022
+8081000,808,7,0,Apples,2022
+8083000,808,7,0,Pears,2022
+8084000,808,7,0,Quinces,2022
+8091000,809,7,0,Apricots,2022
+8092100,809,7,0,"Sour cherries (Prunus cerasus)",2022
+8092900,809,7,0,"Other cherries",2022
+8093000,809,7,0,"Peaches, including nectarines",2022
+8094010,809,7,0,Plums,2022
+8094020,809,7,0,Sloes,2022
+8101000,810,15,0,Strawberries,2022
+8102000,810,7,0,"Raspberries, blackberries, mulberries and loganberries",2022
+8103000,810,7,0,"Black, white or red currants and gooseberries",2022
+8104000,810,7,0,"Cranberries, bilberries and other fruits of the genus Vaccinium",2022
+8105000,810,7,0,Kiwifruit,2022
+8106000,810,10,0,Durians,2022
+8107000,810,10,0,Persimmons,2022
+8109010,810,10,0,"Longans; Mata Kucing",2022
+8109020,810,10,0,Lychees,2022
+8109030,810,10,0,Rambutan,2022
+8109040,810,10,0,"Langsat (Lanzones)",2022
+8109050,810,10,0,"Jackfruit (including Cempedak and Nangka)",2022
+8109060,810,10,0,Tamarinds,2022
+8109070,810,10,0,Starfruit,2022
+8109091,810,10,0,"Salacca (snake fruit)",2022
+8109092,810,10,0,"Dragon fruit",2022
+8109093,810,10,0,"Sapodilla (ciku fruit)",2022
+8111000,811,15,0,"Strawberries, frozen",2022
+8112000,811,7,0,"Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen",2022
+8119000,811,7,0,"Other fruit and nuts, frozen",2022
+8121000,812,3,0,"Cherries, provisionally preserved",2022
+8129010,812,15,0,"Strawberries, provisionally preserved",2022
+8129090,812,7,0,"Other fruit and nuts, provisionally preserved",2022
+8131000,813,7,0,"Dried apricots",2022
+8132000,813,7,0,"Dried prunes",2022
+8133000,813,7,0,"Dried apples",2022
+8134010,813,7,0,"Dried longans",2022
+8134020,813,7,0,"Dried tamarinds",2022
+8134090,813,7,0,"Other dried fruit",2022
+8135010,813,7,0,"Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight",2022
+8135020,813,7,0,"Mixtures of nuts or dried fruits of which other nuts predominate by weight",2022
+8135030,813,7,0,"Mixtures of nuts or dried fruits of which dates predominate by weight",2022
+8135040,813,7,0,"Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight",2022
+8135090,813,7,0,"Other mixtures of nuts or dried fruits",2022
+8140000,814,20,0,"Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",2022

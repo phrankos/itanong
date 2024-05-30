@@ -1,0 +1,11 @@
+accelerate
+bitsandbytes
+datasets
+gradio
+json5
+peft
+scipy
+torch
+transformers
+trl
+peft
