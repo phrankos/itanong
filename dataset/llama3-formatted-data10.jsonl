@@ -1,0 +1,980 @@
+{"question": "What is the customs duty for desiccated coconuts exported from Cagayan to Iloilo?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of desiccated coconuts shipped from Davao to Bacolod?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "What is the dutiable value for desiccated coconuts exported from General Santos to Cebu?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "If I export 2000kg of desiccated coconuts from Zamboanga to Tacloban, how much customs duty should I pay?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "What is the freight value for desiccated coconuts shipped from Laguna to Baguio?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of desiccated coconuts exported from Ilocos to Pampanga?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "What is the dutiable value for desiccated coconuts shipped from Misamis to Butuan?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "If I export 3000kg of desiccated coconuts from Bataan to Antique, how much customs duty should I pay?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "What is the freight value for desiccated coconuts shipped from Palawan to Mindoro?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of desiccated coconuts exported from Cagayan Valley to Nueva Ecija?", "response": {"product_description": "Coconuts, Desiccated", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of fresh coconuts from Cagayan to Davao?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for shipping 1000kg of fresh coconuts from Ilocos to Cebu?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of fresh coconuts from Pangasinan to Bacolod, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of fresh coconuts shipped from Bataan to General Santos?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for exporting 3000kg of fresh coconuts from La Union to Iligan?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "If I export 4000kg of fresh coconuts from Nueva Ecija to Zamboanga, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of fresh coconuts shipped from Tarlac to Butuan?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh coconuts from Pampanga to Dipolog, how much duty should I pay?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 2000kg of fresh coconuts shipped from Isabela to Cotabato?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "If I export 3000kg of fresh coconuts from Laguna to Tuguegarao, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Coconuts, Fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of young coconuts from Cebu to Davao?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of young coconuts shipped from Laguna to Iloilo?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of young coconuts exported from Palawan to Bacolod?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "If I export 3000kg of young coconuts from Mindoro to Cagayan de Oro, how much customs duty should I pay?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of young coconuts shipped from Pampanga to General Santos?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2500kg of young coconuts exported from Ilocos Norte to Zamboanga?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of young coconuts shipped from Bataan to Tacloban?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "If I export 6000kg of young coconuts from Bukidnon to Dagupan, how much customs duty should I pay?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 8000kg of young coconuts shipped from Misamis Oriental to Butuan?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 10000kg of young coconuts exported from Isabela to Pagadian?", "response": {"product_description": "Coconuts, Young", "task": "duty_rate"}}
+{"question": "What is the duty rate for coconuts from Laguna to Cebu?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 500kg of coconuts shipped from Batangas to Davao?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "What is the dutiable value of coconuts from Pampanga to Iloilo?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "If I export 2000kg of coconuts from Bukidnon to Zamboanga, what is the freight value I need to pay?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of coconuts from Misamis Oriental to Tacloban?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "What is the duty rate for coconuts from Nueva Ecija to General Santos?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "If I export 1500kg of coconuts from Isabela to Cagayan de Oro, what is the dutiable value I need to pay?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 3000kg of coconuts from Tarlac to Baguio?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "What is the freight value of coconuts from Negros Occidental to Bacolod?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "If I export 2500kg of coconuts from Palawan to Puerto Princesa, what is the customs duty I need to pay?", "response": {"product_description": "Coconuts, Other", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of in-shell Brazil nuts from Davao to Cagayan de Oro?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for shipping 1000kg of in-shell Brazil nuts from Iloilo to Bacolod?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of in-shell Brazil nuts from General Santos to Zamboanga City?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 3000kg of in-shell Brazil nuts from Cebu to Iloilo, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the duty rate for shipping 1500kg of in-shell Brazil nuts from Manila to Davao?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1500kg of in-shell Brazil nuts?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value/freight value/customs duty for 2500kg of in-shell Brazil nuts from General Santos to Cagayan de Oro?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 1000kg of in-shell Brazil nuts from Iloilo to Bacolod, what is the duty rate?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of in-shell Brazil nuts from Manila to Cebu?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for shipping 2000kg of in-shell Brazil nuts from Davao to General Santos?", "response": {"product_description": "Brazil Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled Brazil nuts exported from Davao to Cebu?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of shelled Brazil nuts shipped from General Santos to Iloilo?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value and customs duty for 1000kg of shelled Brazil nuts exported from Cagayan de Oro to Bacolod?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 2000kg of shelled Brazil nuts from Zamboanga to Baguio, what is the dutiable value and customs duty I need to pay?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for 3000kg of shelled Brazil nuts shipped from Tuguegarao to Dagupan?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of shelled Brazil nuts exported from Butuan to Tacloban?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I import 2500kg of shelled Brazil nuts from Brazil to Manila, what is the customs duty I need to pay?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of shelled Brazil nuts shipped from Cagayan de Oro to General Santos?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of shelled Brazil nuts exported from Iloilo to Cebu?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 6000kg of shelled Brazil nuts shipped from Davao to Zamboanga?", "response": {"product_description": "Brazil Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of in-shell cashew nuts from Cagayan to Davao?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 1000kg of cashew nuts in shell from General Santos to Cebu?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of in-shell cashew nuts exported from Bukidnon to Iloilo?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 3000kg of cashew nuts in shell from Tacloban to Manila?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for 1500kg of in-shell cashew nuts from Zamboanga to Baguio?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of cashew nuts in shell from Ilocos Norte to Davao?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 1200kg of cashew nuts in shell from Cagayan Valley to Cebu?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of in-shell cashew nuts exported from Misamis Oriental to Iloilo?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1800kg of cashew nuts in shell from General Santos to Manila?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for 6000kg of in-shell cashew nuts from Zamboanga to Baguio?", "response": {"product_description": "Cashew Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled cashew nuts exported from General Santos to Cebu?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of shelled cashew nuts from Davao to Bacolod?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 2000kg of shelled cashew nuts from Cagayan de Oro to Iloilo, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled cashew nuts from Zamboanga to Baguio?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of shelled cashew nuts from Tacloban to Cagayan de Oro?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 1500kg of shelled cashew nuts from Iloilo to Davao, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled cashew nuts from General Santos to Manila?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 3000kg of shelled cashew nuts from Cebu to Zamboanga?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 2500kg of shelled cashew nuts from Bacolod to Cagayan de Oro, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled cashew nuts from Davao to General Santos?", "response": {"product_description": "Cashew Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of almonds in shell from Laguna to Cebu?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of almonds in shell from Iloilo to Davao?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of almonds in shell from Batangas to Bacolod?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "If I export 3000kg of almonds in shell from Pampanga to Zamboanga, what is the freight value?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of almonds in shell from Nueva Ecija to General Santos?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2500kg of almonds in shell from Tarlac to Cagayan de Oro?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of almonds in shell from Isabela to Iloilo?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "If I export 6000kg of almonds in shell from Quezon to Tacloban, what is the customs duty?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of almonds in shell from Pangasinan to Baguio?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 10000kg of almonds in shell from Cagayan Valley to Tuguegarao?", "response": {"product_description": "Almonds, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled and blanched almonds exported from Batangas to Cebu?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of shelled and blanched almonds shipped from Laguna to Davao?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "What is the dutiable value for shelled and blanched almonds exported from Quezon to Iloilo?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "If I export 2000kg of shelled and blanched almonds from Nueva Ecija to Baguio, what is the freight value I need to pay?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "What is the customs duty for shelled and blanched almonds shipped from Pangasinan to Tacloban?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of shelled and blanched almonds exported from Isabela to Cagayan?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "What is the dutiable value for shelled and blanched almonds shipped from Misamis Oriental to Zamboanga?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "If I export 3000kg of shelled and blanched almonds from Tarlac to General Santos, what is the customs duty I need to pay?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "What is the freight value for shelled and blanched almonds shipped from Ilocos Norte to La Union?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1500kg of shelled and blanched almonds exported from Bataan to Olongapo?", "response": {"product_description": "Almonds, Shelled, Blanched", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of shelled almonds from Laguna to Cebu?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of shelled almonds from Iloilo to Davao?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of shelled almonds shipped from Batangas to General Santos?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "If I export 3000kg of shelled almonds from Pampanga to Cagayan de Oro, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "How much is the duty rate for exporting 1500kg of shelled almonds from Nueva Ecija to Zamboanga?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of shelled almonds shipped from Tarlac to Bacolod?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "If I export 4000kg of shelled almonds from Isabela to Ilocos Norte, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "How much is the duty rate for exporting 1800kg of shelled almonds from Misamis Oriental to Palawan?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3500kg of shelled almonds shipped from Abra to Antique?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "If I export 6000kg of shelled almonds from Benguet to Leyte, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Almonds, Shelled, Other", "task": "duty_rate"}}
+{"question": "What is the customs duty for hazelnuts in shell exported from Ilocos Norte to Cebu?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty rate should I pay for 500kg of hazelnuts in shell shipped from Davao to General Santos?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for hazelnuts in shell exported from Bukidnon to Laguna?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for hazelnuts in shell exported from Cagayan Valley to Metro Manila?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of hazelnuts in shell exported from Zamboanga to Cagayan?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for hazelnuts in shell exported from Palawan to Tacloban?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty rate should I pay for hazelnuts in shell exported from Bicol to Iloilo?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for hazelnuts in shell exported from Caraga to Negros Oriental?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for hazelnuts in shell exported from Central Luzon to Eastern Visayas?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of hazelnuts in shell exported from Western Visayas to Northern Mindanao?", "response": {"product_description": "Hazelnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of shelled hazelnuts exported from Cagayan Valley to Davao City?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of shelled hazelnuts shipped from Ilocos Sur to Cebu?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 1000kg of shelled hazelnuts from Bukidnon to General Santos, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for shelled hazelnuts from Negros Occidental to Bacolod?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of shelled hazelnuts from Laguna to Batangas?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for shelled hazelnuts from Misamis Oriental to Iligan?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 3000kg of shelled hazelnuts from Palawan to Puerto Princesa, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for shelled hazelnuts from Isabela to Tuguegarao?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2500kg of shelled hazelnuts from Eastern Samar to Tacloban?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for shelled hazelnuts from Zambales to Olongapo?", "response": {"product_description": "Hazelnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of in-shell walnuts from Davao to Cebu?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of in-shell walnuts shipped from Laguna to Batangas?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of in-shell walnuts exported from Iloilo to Bacolod?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 3000kg of in-shell walnuts from Cagayan Valley to Nueva Ecija, how much customs duty should I pay?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of in-shell walnuts shipped from Manila to Pangasinan?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much is the customs duty for in-shell walnuts exported from Zambales to Tarlac?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of in-shell walnuts shipped from Bataan to Pampanga?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 4000kg of in-shell walnuts from Isabela to Quirino, how much customs duty should I pay?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of in-shell walnuts shipped from Camarines Sur to Albay?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "How much is the customs duty for in-shell walnuts exported from Sorsogon to Masbate?", "response": {"product_description": "Walnuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of shelled walnuts exported from Baguio to Cebu?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of shelled walnuts from Laguna to Davao?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 1000kg of shelled walnuts from Ilocos Norte to Manila, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 300kg of shelled walnuts from Batangas to Bacolod?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of shelled walnuts from Pampanga to Cagayan de Oro?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 2500kg of shelled walnuts from Zambales to General Santos, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 400kg of shelled walnuts from Nueva Ecija to Iloilo?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1200kg of shelled walnuts from Isabela to Tacloban?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 1800kg of shelled walnuts from Misamis Oriental to Zamboanga, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 600kg of shelled walnuts from Quezon to Butuan?", "response": {"product_description": "Walnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of in-shell chestnuts from Cagayan to Davao?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 2000kg of in-shell chestnuts shipped from Ilocos Norte to Cebu?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1000kg of in-shell chestnuts exported from Bukidnon to Manila?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "If I export 3000kg of in-shell chestnuts from Isabela to Baguio, what is the freight value?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of in-shell chestnuts shipped from Nueva Ecija to Tacloban?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "How much duty will I pay for 2500kg of in-shell chestnuts exported from Pangasinan to General Santos?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 4000kg of in-shell chestnuts shipped from La Union to Zamboanga?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "If I export 6000kg of in-shell chestnuts from Abra to Iloilo, what is the freight value?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of in-shell chestnuts shipped from Mountain Province to Cagayan?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "How much duty will I pay for 9000kg of in-shell chestnuts exported from Benguet to Davao?", "response": {"product_description": "Chestnuts, in shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of shelled chestnuts exported from Baguio to Cebu?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of shelled chestnuts shipped from Davao to Iloilo?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of shelled chestnuts exported from General Santos to Zamboanga?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 3000kg of shelled chestnuts from Cagayan de Oro to Bacolod, what is the dutiable value?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of shelled chestnuts shipped from Naga to Tacloban?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of shelled chestnuts exported from Iloilo to General Santos?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 4000kg of shelled chestnuts from Davao to Cagayan de Oro, what is the freight value?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for 1000kg of shelled chestnuts shipped from Baguio to Iloilo?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of shelled chestnuts exported from Cebu to Davao?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 6000kg of shelled chestnuts from General Santos to Zamboanga, what is the duty rate?", "response": {"product_description": "Chestnuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for pistachios in shell shipped from Iloilo to Cebu?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of pistachios in shell exported from General Santos to Davao?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for pistachios in shell imported from the United States to Manila?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "Can you tell me the dutiable value for pistachios in shell shipped from Batangas to Laguna?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for pistachios in shell exported from Zamboanga to Pagadian?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for pistachios in shell imported from Turkey to Cagayan de Oro?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "How much duty should I pay for pistachios in shell shipped from Bacolod to Iloilo?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for pistachios in shell exported from Tacloban to Cebu?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "Can you tell me the customs duty for pistachios in shell imported from Iran to Manila?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for pistachios in shell shipped from Dumaguete to Bacolod?", "response": {"product_description": "Pistachios, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of shelled pistachios from Cagayan Valley to Davao City?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of shelled pistachios from Laguna to Cebu?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of shelled pistachios from Iloilo to Manila?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of shelled pistachios from Batangas to Zamboanga City?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 3000kg of shelled pistachios from Pampanga to General Santos?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2500kg of shelled pistachios from Quezon to Bacolod?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of shelled pistachios from Isabela to Iloilo?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1800kg of shelled pistachios from Nueva Ecija to Cagayan Valley?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value for 6000kg of shelled pistachios from Tarlac to Davao City?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1200kg of shelled pistachios from Bataan to General Santos?", "response": {"product_description": "Pistachios, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of in-shell macadamia nuts from Cagayan to Davao?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of in-shell macadamia nuts shipped from Ilocos Sur to Cebu?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 1500kg of in-shell macadamia nuts from Bukidnon to Laguna, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1000kg of in-shell macadamia nuts from Pangasinan to Baguio?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 3000kg of in-shell macadamia nuts shipped from Misamis Oriental to Tacloban?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 800kg of in-shell macadamia nuts from Palawan to Zamboanga?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "If I export 2500kg of in-shell macadamia nuts from Nueva Ecija to Iloilo, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 4000kg of in-shell macadamia nuts from Abra to General Santos?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 6000kg of in-shell macadamia nuts shipped from Quezon to Bacolod?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1200kg of in-shell macadamia nuts from Laguna to Dumaguete?", "response": {"product_description": "Macadamia Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for exporting 500kg of shelled macadamia nuts from Davao to Cebu?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 2000kg of shelled macadamia nuts from Laguna to Iloilo?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value and customs duty for exporting 1000kg of shelled macadamia nuts from Batangas to General Santos?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for importing 3000kg of shelled macadamia nuts from California to Manila?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1500kg of shelled macadamia nuts from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 2500kg of shelled macadamia nuts from Pampanga to Bacolod?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for importing 4000kg of shelled macadamia nuts from New Zealand to Zamboanga City?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for exporting 1200kg of shelled macadamia nuts from Ilocos Norte to Baguio?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the freight value and customs duty for exporting 1800kg of shelled macadamia nuts from Tarlac to Naga?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for importing 6000kg of shelled macadamia nuts from Australia to Davao?", "response": {"product_description": "Macadamia Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for exporting 500kg of kola nuts from Cagayan de Oro to Davao?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of kola nuts shipped from Iloilo to Cebu?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of kola nuts exported from General Santos to Bacolod?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "If I export 3000kg of kola nuts from Tacloban to Zamboanga, what is the customs duty rate I need to pay?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "How much freight value should I declare for 1500kg of kola nuts shipped from Baguio to Puerto Princesa?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of kola nuts exported from Dumaguete to Ozamis?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "If I export 4000kg of kola nuts from Laoag to Iligan, what is the dutiable value I need to pay?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of kola nuts shipped from Naga to Butuan?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2000kg of kola nuts exported from Dagupan to Cotabato?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "If I export 5000kg of kola nuts from Roxas to Surigao, what is the customs duty I need to pay?", "response": {"product_description": "Kola Nuts", "task": "duty_rate"}}
+{"question": "What is the duty rate for areca nuts exported from Cagayan to Davao?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for areca nuts shipped from Laguna to Cebu?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "What is the dutiable value for areca nuts exported from Bukidnon to Manila?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of areca nuts from Ilocos Norte to Baguio?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for areca nuts from Pangasinan to General Santos?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for areca nuts from Misamis Oriental to Iloilo?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for areca nuts from Zambales to Tacloban?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for areca nuts shipped from Nueva Ecija to Butuan?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "What is the dutiable value for areca nuts exported from Palawan to Zamboanga?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "How much duty should I pay for areca nuts from Abra to Cotabato?", "response": {"product_description": "Areca Nuts", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of pine nuts in shell from Bukidnon to Cebu?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 1000kg of pine nuts in shell from Davao to General Santos?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for exporting 2000kg of pine nuts in shell from Iloilo to Tacloban?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much is the freight value for exporting 3000kg of pine nuts in shell from Cagayan de Oro to Pagadian?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 1500kg of pine nuts in shell from Laguna to Batangas?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much dutiable value should I pay for exporting 2500kg of pine nuts in shell from Pangasinan to Dagupan?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the freight value for exporting 4000kg of pine nuts in shell from Quezon to Lucena?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 6000kg of pine nuts in shell from Rizal to Antipolo?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the dutiable value for exporting 8000kg of pine nuts in shell from Misamis Oriental to Ozamis?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "How much is the freight value for exporting 10000kg of pine nuts in shell from Palawan to Puerto Princesa?", "response": {"product_description": "Pine Nuts, In Shell", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of shelled pine nuts from Iloilo to Cebu?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for shipping 2000kg of shelled pine nuts from Laguna to Bacolod?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 300kg of shelled pine nuts from Batangas to Davao?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 1000kg of shelled pine nuts from Pangasinan to Zamboanga, how much customs duty should I pay?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for shipping 1500kg of shelled pine nuts from Nueva Ecija to Cagayan de Oro?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2500kg of shelled pine nuts from Isabela to Iloilo?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 1200kg of shelled pine nuts from Rizal to Bacolod?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "If I export 800kg of shelled pine nuts from Quezon to General Santos, how much customs duty should I pay?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the duty rate for shipping 1800kg of shelled pine nuts from Tarlac to Davao?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 600kg of shelled pine nuts from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Pine Nuts, Shelled", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of other nuts from Iloilo to Cebu?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of other nuts shipped from Davao to General Santos?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "If I export 3000kg of other nuts from Laguna to Manila, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of other nuts exported from Bacolod to Tacloban?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "How much is the duty rate for other nuts shipped from Cagayan de Oro to Iligan?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of other nuts exported from Zamboanga to Pagadian?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "If I export 1500kg of other nuts from Pangasinan to Baguio, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of other nuts shipped from Ilocos Norte to Ilocos Sur?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of other nuts exported from Misamis Oriental to Bukidnon?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of other nuts shipped from Negros Occidental to Negros Oriental?", "response": {"product_description": "Other Nuts", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of fresh plantains exported from Davao to Cebu?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh plantains shipped from Laguna to Iloilo?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1000kg of fresh plantains exported from Bukidnon to Manila?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for 1500kg of fresh plantains exported from Pampanga to Cagayan de Oro?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of fresh plantains shipped from Negros Occidental to Batangas?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2500kg of fresh plantains exported from Misamis Oriental to Pangasinan?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of fresh plantains shipped from Isabela to Quezon?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 6000kg of fresh plantains exported from Zambales to Leyte?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of fresh plantains shipped from Abra to Ilocos Sur?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 10000kg of fresh plantains exported from Tarlac to Nueva Ecija?", "response": {"product_description": "Plantains, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of dried plantains exported from Cagayan to Davao?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000 units of dried plantains shipped from Bukidnon to Cebu?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the freight value of 1000kg of dried plantains exported from Ilocos Norte to General Santos?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "If I export 3000 units of dried plantains from Laguna to Bacolod, how much customs duty should I pay?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1500kg of dried plantains shipped from Misamis Oriental to Iloilo?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 4000kg of dried plantains exported from Isabela to Zamboanga?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500 units of dried plantains shipped from Nueva Ecija to Tacloban?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "If I export 6000kg of dried plantains from Pampanga to Cagayan de Oro, how much duty should I pay?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the freight value of 8000 units of dried plantains shipped from Tarlac to Butuan?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 10000kg of dried plantains exported from Pangasinan to Baguio?", "response": {"product_description": "Plantains, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for a shipment of 500kg of Lady's finger banana from Iloilo to Cebu?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of Lady's finger banana from Laguna to Davao?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1000kg of Lady's finger banana from Batangas to Manila?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of Lady's finger banana from Cagayan to Baguio?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of Lady's finger banana from Negros to Zamboanga?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of Lady's finger banana from Pampanga to Iloilo?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 4000kg of Lady's finger banana from Misamis to Bacolod?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of Lady's finger banana from Pangasinan to Cebu?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the freight value for 2000kg of Lady's finger banana from Tarlac to Davao?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 3000kg of Lady's finger banana from Ilocos to Baguio?", "response": {"product_description": "Lady's finger banana", "task": "duty_rate"}}
+{"question": "What is the duty rate for Cavendish banana exports from Cagayan Valley to Davao City?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500 kilograms of Cavendish banana from Laguna to Cebu?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "What is the customs duty for Cavendish banana exports from Iloilo to General Santos?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "If I export 2000 kilograms of Cavendish banana from Bukidnon to Zamboanga City, what is the duty rate?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1000 kilograms of Cavendish banana from Nueva Ecija to Bacolod?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "What is the duty rate for Cavendish banana exports from Pangasinan to Iligan?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "If I export 3000 kilograms of Cavendish banana from Misamis Oriental to Taguig, what is the duty rate?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1500 kilograms of Cavendish banana from Tarlac to Iloilo?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "What is the customs duty for Cavendish banana exports from Palawan to Cagayan de Oro?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "If I export 2500 kilograms of Cavendish banana from Isabela to Batangas, what is the duty rate?", "response": {"product_description": "Cavendish banana", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of Chestnut banana from Bukidnon to Cagayan de Oro?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of Chestnut banana shipped from Laguna to Iloilo?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1500kg of Chestnut banana from Cebu to Tacloban?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 1000kg of Chestnut banana from Nueva Ecija to Manila?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "What is the freight value of 3000kg of Chestnut banana from Isabela to Baguio?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2500kg of Chestnut banana shipped from Pangasinan to Davao?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of Chestnut banana from Quezon to Batangas?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "How much dutiable value should I pay for 6000kg of Chestnut banana from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of Chestnut banana from Camarines Sur to Naga?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 12000kg of Chestnut banana shipped from Palawan to Puerto Princesa?", "response": {"product_description": "Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan)", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh mangoes from Guimaras to Manila, how much dutiable value/freight value/customs duty should I pay?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 1000kg of fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of fresh mangoes from Iloilo to Cebu?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of fresh mangoes from Cagayan to Davao?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh mangoes from Baguio to Makati?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1000kg of fresh mangoes from Laguna to Pampanga?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of dates from Davao to Cebu?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 1000kg of dates from Laguna to Iloilo?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dates from Bukidnon to Zamboanga, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "What is the customs duty for 300kg of dates from Negros Oriental to Metro Manila?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 1500kg of dates from Cagayan Valley to Baguio?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "If I export 2500kg of dates from Tarlac to Bacolod, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1000kg of dates from Palawan to Cagayan de Oro?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of dates from Isabela to Davao?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dates from Misamis Oriental to Iloilo, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of dates from Camarines Sur to Manila?", "response": {"product_description": "Dates", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of fresh figs from Iloilo to Cebu?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of fresh figs shipped from Laguna to Davao?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1000kg of fresh figs exported from Pampanga to Bacolod?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value of 3000kg of fresh figs shipped from Batangas to General Santos?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of fresh figs exported from Isabela to Ilocos Norte?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 2500kg of fresh figs shipped from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of fresh figs exported from Zambales to Palawan?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 8000kg of fresh figs shipped from Nueva Ecija to Tarlac?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 6000kg of fresh figs exported from Bukidnon to Surigao del Sur?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value of 9000kg of fresh figs shipped from Antique to Roxas City?", "response": {"product_description": "Figs, fresh", "task": "duty_rate"}}
+{"question": "If I export 500kg of fresh pineapples from Iloilo to Cebu, how much dutiable value/freight value/customs duty should I pay?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for exporting pineapples from Laguna to Davao?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 2000kg of fresh pineapples from Batangas to Manila?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh pineapples from Nueva Ecija to Baguio, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for exporting pineapples from Bukidnon to Cagayan de Oro?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 3000kg of fresh pineapples from Tarlac to Pampanga?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "If I export 1500kg of fresh pineapples from Zambales to Olongapo, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for exporting pineapples from Quezon to Lucena?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 2500kg of fresh pineapples from Isabela to Tuguegarao?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of fresh pineapples from La Union to Dagupan, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Pineapples, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of avocados from Laguna to Cebu?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh avocados shipped from Iloilo to Davao?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of avocados exported from Batangas to Zamboanga?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "If I export 3000kg of avocados from Pampanga to Cagayan de Oro, what is the duty rate?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of avocados shipped from Bukidnon to Manila?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 800kg of avocados from Negros Occidental to General Santos?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2500kg of avocados shipped from Isabela to Tacloban?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of avocados exported from Pangasinan to Butuan?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "If I export 6000kg of avocados from Misamis Oriental to Iloilo, what is the duty rate?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of avocados shipped from Antique to Davao?", "response": {"product_description": "Avocados", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of fresh guavas shipped from Davao to Cebu?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of guavas from Bukidnon to Manila, how much customs duty do I need to pay?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1000kg of fresh guavas from Ilocos Norte to Baguio?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "How much freight value should I declare for 3000kg of guavas from Laguna to Quezon City?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of guavas from Zambales to Pampanga?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "If I export 2500kg of guavas from Cagayan Valley to Iloilo, what is the customs duty I need to pay?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 4000kg of fresh guavas from Nueva Ecija to Batangas?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 6000kg of guavas from Pangasinan to La Union?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value of 8000kg of guavas from Tarlac to Nueva Vizcaya?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "If I export 10000kg of guavas from Isabela to Surigao, what is the customs duty I need to pay?", "response": {"product_description": "Guavas, fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh mangoes from Guimaras to Manila, how much dutiable value/freight value/customs duty should I pay?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of fresh mangoes exported from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh mangoes shipped from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting fresh mangoes from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh mangoes transported from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty for 1000kg of fresh mangoes exported from Guimaras to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh mangoes from Guimaras to Cebu, how much duty do I need to pay?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting fresh mangoes from Davao to Manila?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh mangoes shipped from Bacolod to Iloilo?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty for 1000kg of fresh mangoes exported from Baguio to Pangasinan?", "response": {"product_description": "Mangoes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of dried mangoes from Iloilo to Cebu?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of dried mangoes shipped from Negros Oriental to Davao?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of dried mangoes exported from Antique to General Santos?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dried mangoes from Capiz to Zamboanga, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for 1000kg of dried mangoes shipped from Palawan to Bacolod?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of dried mangoes exported from Misamis Oriental to Baguio?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "If I export 4000kg of dried mangoes from Laguna to Tacloban, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1200kg of dried mangoes shipped from Pangasinan to Butuan?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1800kg of dried mangoes exported from Isabela to Iloilo?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "What is the duty rate for 6000kg of dried mangoes shipped from Cagayan Valley to Dagupan?", "response": {"product_description": "Mangoes, dried", "task": "duty_rate"}}
+{"question": "If I export 500kg of mangosteens from Davao to Cebu, what is the duty rate I need to pay?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "What is the customs duty for mangosteens shipped from Laguna to Iloilo?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "How much duty will I need to pay for 2000kg of fresh mangosteens exported from Bukidnon to Manila?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "If I export 1000kg of mangosteens from Misamis Oriental to Cagayan de Oro, what is the duty rate applicable?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "What is the customs duty for mangosteens shipped from Zambales to Batangas?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "How much is the duty rate for mangosteens exported from Pampanga to Baguio?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "If I export 1500kg of mangosteens from Surigao del Norte to Tacloban, what is the duty rate I need to pay?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "What is the customs duty for mangosteens shipped from Palawan to Cebu?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "How much duty will I need to pay for 3000kg of fresh mangosteens exported from Ilocos Norte to Manila?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "If I export 2500kg of mangosteens from Negros Oriental to Bacolod, what is the duty rate applicable?", "response": {"product_description": "Mangosteens", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of fresh oranges exported from Laguna to Cebu?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh oranges shipped from Pampanga to Davao?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of fresh oranges exported from Batangas to Iloilo?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of fresh oranges shipped from Nueva Ecija to Bacolod?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of fresh oranges exported from Isabela to General Santos?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2500kg of fresh oranges shipped from Tarlac to Zamboanga?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of fresh oranges exported from Pangasinan to Tacloban?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 6000kg of fresh oranges shipped from Quezon to Butuan?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of fresh oranges exported from Camarines Sur to Tuguegarao?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 10000kg of fresh oranges shipped from Bataan to Legazpi?", "response": {"product_description": "Oranges, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of dried oranges from Cagayan to Davao?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of dried oranges shipped from Iloilo to Cebu?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of dried oranges exported from Bukidnon to Tacloban?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dried oranges from Laguna to Baguio, what is the duty rate I need to pay?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "How much freight value and customs duty should I pay for 1500kg of dried oranges from Misamis Oriental to General Santos?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "What is the dutiable value and customs duty for 2500kg of dried oranges shipped from Quezon to Zamboanga?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "If I export 4000kg of dried oranges from Palawan to Bacolod, what is the customs duty I need to pay?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1800kg of dried oranges from Pampanga to Ilocos Norte?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1200kg of dried oranges exported from Negros Oriental to Bataan?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "If I export 6000kg of dried oranges from Leyte to Isabela, what is the customs duty I need to pay?", "response": {"product_description": "Oranges, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty for a shipment of 500kg of fresh mandarins from Cagayan Valley to Davao City?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for exporting 2000kg of mandarins from Laguna to General Santos?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for mandarins from Bukidnon to Manila?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "If I export 1500kg of mandarins from Ilocos Norte to Cebu, what is the customs duty I need to pay?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "How much is the duty for a shipment of 1000kg of mandarins from Pampanga to Tacloban?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for mandarins from Zambales to Baguio?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "If I export 3000kg of mandarins from Isabela to Butuan, what is the duty rate I need to pay?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "How much is the duty for a shipment of 2500kg of mandarins from Nueva Ecija to Iloilo?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for mandarins from Camarines Sur to Zamboanga City?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "If I export 4000kg of mandarins from Batanes to Legazpi, what is the duty rate I need to pay?", "response": {"product_description": "Mandarins (including tangerines and satsumas), fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of clementines from Laguna to Cebu?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of fresh clementines shipped from Iloilo to Davao?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "If I export 1500kg of clementines from Batangas to General Santos, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1000kg of clementines from Quezon to Bacolod?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 3000kg of fresh clementines shipped from Misamis Oriental to Zamboanga?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "If I export 2500kg of clementines from Pampanga to Cagayan de Oro, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 800kg of clementines from Benguet to Tacloban?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 4000kg of fresh clementines shipped from Nueva Ecija to Iloilo?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "If I export 600kg of clementines from Camarines Sur to Butuan, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1200kg of clementines from Isabela to Surigao?", "response": {"product_description": "Clementines", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of other mandarins, clementines, wilkings and similar citrus hybrids from Cagayan to Davao?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for 1000kg of fresh other mandarins, clementines, wilkings and similar citrus hybrids exported from Laguna to Cebu?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of other mandarins, clementines, wilkings and similar citrus hybrids exported from Iloilo to Bacolod?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of fresh other mandarins, clementines, wilkings and similar citrus hybrids exported from Batangas to Manila?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1500kg of other mandarins, clementines, wilkings and similar citrus hybrids exported from Pampanga to Baguio?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of fresh other mandarins, clementines, wilkings and similar citrus hybrids exported from Negros Occidental to Iloilo?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of other mandarins, clementines, wilkings and similar citrus hybrids exported from Misamis Oriental to Cagayan?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "How much is the freight value for 2000kg of fresh other mandarins, clementines, wilkings and similar citrus hybrids exported from Bukidnon to Davao?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of other mandarins, clementines, wilkings and similar citrus hybrids exported from Palawan to Manila?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1500kg of fresh other mandarins, clementines, wilkings and similar citrus hybrids exported from Pangasinan to Baguio?", "response": {"product_description": "Other mandarins, clementines, wilkings and similar citrus hybrids", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of grapefruit from Laguna to Cebu?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh grapefruit shipped from Iloilo to Davao?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "What is the freight value of 1000kg of pomelos exported from Batangas to General Santos?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of grapefruit from Nueva Ecija to Bacolod?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 3000kg of grapefruit and pomelos exported from Misamis Oriental to Zamboanga?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 2500kg of grapefruit shipped from Bukidnon to Cagayan de Oro?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "What is the freight value of 4000kg of pomelos exported from Quezon to Tacloban?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of grapefruit from Pampanga to Iloilo?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 2000kg of grapefruit and pomelos exported from Palawan to Cebu?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1500kg of grapefruit shipped from Isabela to Dagupan?", "response": {"product_description": "Grapefruit and pomelos", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of lemons from Cebu to Davao?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000 lemons from Baguio to Iloilo?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh lemons from Laguna to Bacolod, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "What is the duty rate for importing 300 lemons from Manila to Cagayan de Oro?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1500kg of lemons from Pampanga to General Santos?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of lemons from Ilocos Norte to Quezon City?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "If I export 2500kg of lemons from Negros Occidental to Zamboanga City, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "What is the duty rate for importing 1000 lemons from Tarlac to Cebu?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of lemons from Batangas to Davao?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of lemons from Isabela to Manila?", "response": {"product_description": "Lemons (Citrus limon, Citrus limonum)", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of fresh limes from Laguna to Cebu?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh limes shipped from Iloilo to Davao?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1000kg of fresh limes from Bukidnon to Manila?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "If I export 3000kg of fresh limes from Cagayan Valley to General Santos, how much customs duty do I need to pay?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of fresh limes shipped from Palawan to Zamboanga?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2500kg of fresh limes exported from Misamis Oriental to Bacolod?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "What is the duty rate for 4000kg of fresh limes shipped from Agusan del Sur to Cagayan de Oro?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "If I export 6000kg of fresh limes from Antique to Iloilo, how much customs duty do I need to pay?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of fresh limes shipped from Surigao del Norte to Butuan?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 10000kg of fresh limes exported from Negros Occidental to Bacolod?", "response": {"product_description": "Limes (Citrus aurantifolia, Citrus latifolia)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of other citrus fruits exported from Batangas to Cebu?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "If I export 2000kg of other citrus fruits from Iloilo to Davao, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of other citrus fruits shipped from Laguna to Baguio?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 3000kg of other citrus fruits from Pampanga to General Santos?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "If I export 1500kg of other citrus fruits from Quezon to Tacloban, what is the customs duty I need to pay?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "How much duty rate applies to 2500kg of other citrus fruits shipped from Cagayan to Zamboanga?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1200kg of other citrus fruits exported from Isabela to Butuan?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "If I export 4000kg of other citrus fruits from Misamis Oriental to Iligan, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1800kg of other citrus fruits shipped from Nueva Ecija to Dagupan?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 6000kg of other citrus fruits from Tarlac to Puerto Princesa?", "response": {"product_description": "Other citrus fruit", "task": "duty_rate"}}
+{"question": "If I export 500kg of fresh grapes from Laguna to Cebu, how much customs duty should I pay?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for fresh grapes shipped from Batangas to Davao?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for 1000kg of fresh grapes exported from Iloilo to Bacolod?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of fresh grapes from Nueva Ecija to Manila, what is the customs duty I need to pay?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of fresh grapes shipped from Pampanga to Baguio?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 3000kg of fresh grapes exported from Zambales to Olongapo?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "If I export 2500kg of fresh grapes from Bukidnon to Cagayan de Oro, what is the dutiable value I need to pay?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of fresh grapes shipped from Isabela to Tuguegarao?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh grapes from Misamis Oriental to Iligan, what is the freight value I need to pay?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh grapes shipped from Cavite to Lipa?", "response": {"product_description": "Grapes, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of dried grapes from Davao to Cebu?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of dried grapes shipped from Laguna to Baguio?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of dried grapes exported from Iloilo to Tacloban?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for 3000kg of dried grapes transported from Manila to Bacolod?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "What is the freight value for 4000kg of dried grapes exported from Cagayan de Oro to General Santos?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of dried grapes shipped from Zamboanga to Dipolog?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of dried grapes exported from Nueva Ecija to Pampanga?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "How much customs duty is payable for 3500kg of dried grapes transported from Batangas to Quezon City?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "What is the freight value for 6000kg of dried grapes exported from Ilocos Norte to La Union?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 8000kg of dried grapes shipped from Misamis Oriental to Bukidnon?", "response": {"product_description": "Grapes, dried", "task": "duty_rate"}}
+{"question": "If I export 500kg of watermelons from Laguna to Cebu, how much dutiable value/freight value/customs duty should I pay?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the duty rate for watermelons when exporting from Quezon to Davao?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of watermelons shipped from Iloilo to General Santos?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the tariff rate for watermelons when importing from Manila to Cagayan de Oro?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "If I export 1000kg of watermelons from Batangas to Bacolod, how much duty should I pay?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of watermelons shipped from Pampanga to Iloilo?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1500kg of watermelons exported from Negros Occidental to Zamboanga City?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the tariff rate for watermelons when importing from Cebu to Tacloban?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "If I export 2500kg of watermelons from Isabela to Baguio, how much duty should I pay?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of watermelons shipped from Bukidnon to Davao?", "response": {"product_description": "Watermelons", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of other melons from Laguna to Cebu?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of other melons shipped from Iloilo to Davao?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of other melons exported from Pampanga to Bacolod?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "How much freight value do I need to declare for 3000kg of other melons shipped from Batangas to General Santos?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1500kg of other melons exported from Negros Oriental to Zamboanga?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2500kg of other melons shipped from Cagayan Valley to Ilocos Norte?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 4000kg of other melons from Eastern Samar to Leyte?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 6000kg of other melons shipped from Palawan to Misamis Occidental?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of other melons exported from Bataan to Tarlac?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "How much freight value do I need to declare for 9000kg of other melons shipped from Quezon to Romblon?", "response": {"product_description": "Other melons", "task": "duty_rate"}}
+{"question": "If I export 500kg of fresh papaws from Davao to Cebu, how much dutiable value/freight value/customs duty should I pay?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 2000kg of fresh papaws from Iloilo to Bacolod?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh papaws shipped from Laguna to Batangas?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "If I export 3000kg of fresh papaws from Cagayan de Oro to General Santos, what is the customs duty I need to pay?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "How much is the duty for 1500kg of fresh papaws shipped from Zamboanga to Davao?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of fresh papaws exported from Palawan to Puerto Princesa?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "If I export 4000kg of fresh papaws from Baguio to La Union, how much duty do I need to pay?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1000kg of fresh papaws shipped from Misamis Oriental to Bukidnon?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "What is the duty for 2000kg of fresh papaws exported from Negros Occidental to Iloilo?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "If I export 6000kg of fresh papaws from Pangasinan to Dagupan, how much customs duty should I pay?", "response": {"product_description": "Papaws, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of apples shipped from Baguio to Cebu?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of fresh apples exported from Davao to Iloilo?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of apples from Laguna to Bacolod?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "If I export 3000kg of apples from Pampanga to Cagayan de Oro, what is the dutiable value?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of apples shipped from Manila to General Santos?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2500kg of fresh apples exported from Cebu to Zamboanga?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "What is the freight value for 500kg of apples from Iloilo to Tacloban?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "If I export 4000kg of apples from Batangas to Davao, what is the dutiable value?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of apples shipped from Naga to Dumaguete?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 3500kg of fresh apples exported from Pangasinan to Baguio?", "response": {"product_description": "Apples", "task": "duty_rate"}}
+{"question": "What is the customs duty for a 500kg shipment of fresh pears from Batangas to Davao?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh pears exported from Laguna to Cebu?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of fresh pears shipped from Quezon to Iloilo?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "If I export 3000kg of fresh pears from Pampanga to Bacolod, how much customs duty should I pay?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "How much dutiable value should I declare for a 1500kg shipment of fresh pears from Nueva Ecija to General Santos?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of fresh pears exported from Isabela to Tacloban?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "If I import 4000kg of fresh pears from Taiwan to Manila, how much customs duty should I pay?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 6000kg of fresh pears shipped from Mindoro to Zamboanga?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of fresh pears exported from Cagayan Valley to Butuan?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "If I export 10000kg of fresh pears from Abra to Cotabato, how much customs duty should I pay?", "response": {"product_description": "Pears, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of fresh quinces from Bukidnon to Cebu?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of quinces shipped from Iloilo to Davao?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "If I export 1500kg of quinces from Laguna to Baguio, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1000kg of quinces from Nueva Ecija to Cagayan de Oro?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 3000kg of quinces shipped from Tarlac to Zamboanga?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "If I export 2500kg of quinces from Pampanga to Bacolod, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 800kg of quinces from Isabela to General Santos?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1200kg of quinces shipped from Batangas to Iloilo?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "If I export 4000kg of quinces from Negros Occidental to Cagayan Valley, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 600kg of quinces from Misamis Oriental to Laguna?", "response": {"product_description": "Quinces, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for apricots exported from Davao to Cebu?", "response": {"product_description": "Apricots", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 500kg of fresh apricots shipped from Laguna to Bacolod?", "response": {"product_description": "Apricots, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for apricots exported from Iloilo to Manila?", "response": {"product_description": "Apricots", "task": "duty_rate"}}
+{"question": "If I export 2000kg of apricots from Bukidnon to General Santos, what is the freight value and customs duty I need to pay?", "response": {"product_description": "Apricots", "task": "duty_rate"}}
+{"question": "How much is the customs duty for dried apricots imported from the US to Zamboanga?", "response": {"product_description": "Apricots, dried", "task": "duty_rate"}}
+{"question": "What is the duty rate for apricot jam exported from Cagayan de Oro to Iloilo?", "response": {"product_description": "Apricot jam", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh apricots from Nueva Ecija to Baguio, what is the dutiable value and customs duty I need to pay?", "response": {"product_description": "Apricots, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for apricots imported from China to Cebu?", "response": {"product_description": "Apricots", "task": "duty_rate"}}
+{"question": "How much is the freight value and customs duty for 300kg of dried apricots shipped from General Santos to Davao?", "response": {"product_description": "Apricots, dried", "task": "duty_rate"}}
+{"question": "What is the duty rate for fresh apricots exported from Ilocos Norte to Manila?", "response": {"product_description": "Apricots, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of sour cherries from Iloilo to Cebu?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 1000kg of sour cherries from Laguna to Davao?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of sour cherries from Batangas to General Santos?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "If I export 1500kg of sour cherries from Pampanga to Bacolod, what is the customs duty?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "How much is the duty rate for 3000kg of sour cherries from Bukidnon to Taguig?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "What is the freight value for 2500kg of sour cherries from Nueva Ecija to Cagayan de Oro?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "If I export 4000kg of sour cherries from Isabela to Iloilo, what is the customs duty?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 6000kg of sour cherries from Misamis Oriental to Laguna?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 8000kg of sour cherries from Camarines Sur to Quezon City?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 10000kg of sour cherries from Negros Occidental to Manila?", "response": {"product_description": "Sour cherries (Prunus cerasus)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of other cherries from Batangas to Cebu?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of fresh other cherries shipped from Iloilo to Davao?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 1000kg of other cherries exported from Laguna to Baguio?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "How much is the freight value for 3000kg of other cherries shipped from Cagayan de Oro to General Santos?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "If I export 4000kg of other cherries from Nueva Ecija to Tacloban, what is the customs duty I need to pay?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1500kg of other cherries from Bukidnon to Iloilo?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2500kg of other cherries shipped from Misamis Oriental to Zamboanga?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "What is the dutiable value of 6000kg of other cherries exported from Pangasinan to Cebu?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "How much is the freight value for 8000kg of other cherries shipped from Quezon to Davao?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "If I export 1000kg of other cherries from Isabela to General Santos, what is the customs duty I need to pay?", "response": {"product_description": "Other cherries", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of peaches from Davao to Cebu?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for shipping 1000kg of fresh peaches from Laguna to Iloilo?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of peaches from Bukidnon to General Santos?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 3000kg of nectarines from Misamis Oriental to Zamboanga?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for shipping 1500kg of peaches from Quezon to Tacloban?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "How much is the duty for exporting 2500kg of peaches from Batangas to Cagayan de Oro?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1000kg of fresh peaches from Pangasinan to Dagupan?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for shipping 4000kg of peaches from Nueva Ecija to Baguio?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 3500kg of nectarines from Ilocos Norte to La Union?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 6000kg of peaches from Isabela to Tuguegarao?", "response": {"product_description": "Peaches, including nectarines", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of fresh plums from Laguna to Cebu?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh plums shipped from Iloilo to Davao?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of fresh plums exported from Batangas to Zamboanga?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of fresh plums shipped from Nueva Ecija to General Santos?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of fresh plums exported from Pampanga to Bacolod?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of fresh plums shipped from Isabela to Butuan?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 4000kg of fresh plums exported from Tarlac to Iloilo?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 6000kg of fresh plums shipped from Benguet to Cagayan de Oro?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of fresh plums exported from Pangasinan to Tacloban?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 9000kg of fresh plums shipped from La Union to Surigao?", "response": {"product_description": "Plums, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of sloes from Laguna to Cebu?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of fresh sloes shipped from Iloilo to Davao?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of sloes exported from Bacolod to Baguio?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of sloes shipped from Cagayan de Oro to Zamboanga?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of dried sloes shipped from General Santos to Tacloban?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of sloes exported from Tuguegarao to Ilocos Sur?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the freight value for 4000kg of sloes shipped from Dumaguete to Roxas?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh sloes shipped from Puerto Princesa to Pagadian?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of sloes exported from Bataan to Pangasinan?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of dried sloes shipped from Laoag to Iligan?", "response": {"product_description": "Sloes", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of fresh strawberries from Baguio to Cebu?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh strawberries shipped from Davao to Iloilo?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of fresh strawberries exported from Laguna to Batangas?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of fresh strawberries from Cagayan de Oro to General Santos?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of fresh strawberries from Ilocos Norte to Quezon City?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of fresh strawberries shipped from Bukidnon to Tacloban?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of fresh strawberries from Nueva Ecija to Dagupan?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for 6000kg of fresh strawberries from Pampanga to Zamboanga?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 8000kg of fresh strawberries from Abra to Bacolod?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 10000kg of fresh strawberries from Isabela to Butuan?", "response": {"product_description": "Strawberries, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of mixed berries from Laguna to Cebu?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of mixed berries shipped from Davao to Iloilo?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "What is the dutiable value for exporting 1000kg of mixed berries from Batangas to Bacolod?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "If I export 3000kg of mixed berries from Cagayan Valley to General Santos, how much freight value should I pay?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of mixed berries from Pampanga to Zamboanga?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2500kg of mixed berries shipped from Bicol to Palawan?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "What is the dutiable value for exporting 4000kg of mixed berries from Eastern Visayas to Mindoro?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "If I export 2000kg of mixed berries from Ilocos Region to Negros Occidental, how much freight value should I pay?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of mixed berries from Western Visayas to Davao?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 3000kg of mixed berries shipped from Central Luzon to Cagayan Valley?", "response": {"product_description": "Raspberries, blackberries, mulberries and loganberries", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of black, white, or red currants and gooseberries from Laguna to Cebu?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 1000kg of gooseberries from Iloilo to Davao?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "What is the freight value for 2000kg of currants and gooseberries from Bukidnon to General Santos?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 3000kg of black currants from Cagayan Valley to Baguio?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1500kg of white gooseberries from Pampanga to Tacloban?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 2500kg of red currants from Isabela to Zamboanga?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "What is the freight value for 4000kg of gooseberries from Nueva Ecija to Iloilo?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 6000kg of black, white, or red currants from Quezon to Cagayan Valley?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 8000kg of gooseberries from Bicol to Davao?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 10000kg of currants and gooseberries from Mindoro to Zamboanga?", "response": {"product_description": "Black, white or red currants and gooseberries", "task": "duty_rate"}}
+{"question": "What is the duty rate for cranberries and bilberries shipped from Baguio to Cagayan de Oro?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for a 500kg shipment of Vaccinium fruits from Iloilo to Davao?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the dutiable value of Vaccinium fruits when exported from Laguna to Cebu?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for a 1000kg shipment of Vaccinium fruits from Pampanga to Bacolod?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for a 2000kg shipment of Vaccinium fruits from Nueva Ecija to Zamboanga?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the duty rate for Vaccinium fruits exported from Tarlac to General Santos?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for a 3000kg shipment of Vaccinium fruits from Isabela to Butuan?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the dutiable value of Vaccinium fruits when exported from Bukidnon to Tacloban?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for a 4000kg shipment of Vaccinium fruits from Misamis Oriental to Ilocos Norte?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for a 5000kg shipment of Vaccinium fruits from Palawan to Antique?", "response": {"product_description": "Cranberries, bilberries and other fruits of the genus Vaccinium", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of kiwifruit from Laguna to Cebu?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for shipping 2000kg of kiwifruit from Iloilo to Davao?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of kiwifruit exported from Batangas to Bacolod?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 3000kg of kiwifruit shipped from Nueva Ecija to General Santos?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of kiwifruit exported from Pampanga to Cagayan de Oro?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2500kg of kiwifruit shipped from Isabela to Zamboanga?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 500kg of kiwifruit exported from Tarlac to Iloilo?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of kiwifruit shipped from Misamis Oriental to Quezon City?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 2000kg of kiwifruit exported from Palawan to Baguio?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 3000kg of kiwifruit shipped from Bukidnon to Taguig?", "response": {"product_description": "Kiwifruit", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of fresh durians from Cagayan de Oro to Davao?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of durians shipped from Bacolod to Iloilo?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of fresh durians from General Santos to Cebu, what is the customs duty I need to pay?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of fresh durians from Dumaguete to Tacloban?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 3000kg of fresh durians shipped from Manila to Baguio?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of fresh durians from Cagayan de Oro to Iligan?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "If I export 4000kg of fresh durians from Iloilo to Bacolod, what is the customs duty I need to pay?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 6000kg of fresh durians shipped from Davao to General Santos?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of fresh durians from Cebu to Manila?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "If I export 10000kg of fresh durians from Tacloban to Dumaguete, what is the customs duty I need to pay?", "response": {"product_description": "Durians, fresh", "task": "duty_rate"}}
+{"question": "If I export 500kg of persimmons from Baguio to Cebu, what is the duty rate I need to pay?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of persimmons shipped from Davao to General Santos?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of fresh persimmons exported from Iloilo to Bacolod?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "If I export 3000kg of persimmons from Laguna to Quezon, what is the freight value I need to declare?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "How much dutiable value should I declare for 1500kg of persimmons shipped from Nueva Ecija to Pampanga?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of persimmons exported from Batangas to Cavite?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "If I export 4000kg of persimmons from Zambales to Tarlac, what is the freight value I need to pay?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of persimmons shipped from Isabela to Cagayan?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of fresh persimmons exported from Pangasinan to La Union?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "If I export 6000kg of persimmons from Camarines Sur to Albay, what is the dutiable value I need to declare?", "response": {"product_description": "Persimmons", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of Longans from Iloilo to Cebu?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of Longans shipped from Davao to General Santos?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of fresh Longans exported from Bacolod to Tacloban?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "If I export 3000kg of Longans from Cagayan de Oro to Iligan, what is the freight value I should declare?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1500kg of Longans shipped from Zamboanga to Pagadian?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2500kg of Longans exported from Baguio to Dagupan?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of fresh Longans shipped from Laoag to Vigan?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "If I export 6000kg of Longans from Tuguegarao to Tabuk, what is the freight value I should declare?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 8000kg of Longans shipped from Legazpi to Naga?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 10000kg of Longans exported from Butuan to Surigao?", "response": {"product_description": "Longans; Mata Kucing", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of fresh lychees shipped from Davao to Cebu?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for exporting 1000kg of fresh lychees from Laguna to Manila?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 200kg of fresh lychees from Bukidnon to Iloilo?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "If I export 300kg of fresh lychees from Pampanga to Baguio, what is the customs duty I need to pay?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "How much freight value should I declare for 400kg of fresh lychees from Batangas to Tacloban?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 800kg of fresh lychees from Isabela to Naga?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "If I export 1500kg of fresh lychees from Misamis Oriental to General Santos, what is the customs duty I need to pay?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 250kg of fresh lychees from Quezon to Zamboanga?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "If I export 600kg of fresh lychees from Ilocos Norte to Cagayan de Oro, what is the customs duty I need to pay?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 700kg of fresh lychees from Negros Occidental to Palawan?", "response": {"product_description": "Lychees, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of fresh rambutans shipped from Laguna to Cebu?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of fresh rambutans from Iloilo to Davao?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "If I export 1000kg of fresh rambutans from Batangas to Bacolod, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of fresh rambutans shipped from Nueva Ecija to General Santos?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "How much is the customs duty for fresh rambutans exported from Isabela to Zamboanga?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "If I export 1500kg of fresh rambutans from Camarines Sur to Iloilo, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of fresh rambutans shipped from Bukidnon to Cagayan de Oro?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 4000kg of fresh rambutans from La Union to Tacloban?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "If I export 2000kg of fresh rambutans from Misamis Oriental to Pagadian, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of fresh rambutans shipped from Palawan to Puerto Princesa?", "response": {"product_description": "Rambutans, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of Langsat (Lanzones) from Iloilo to Cebu?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of fresh Langsat (Lanzones) shipped from Bacolod to Davao?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1000kg of Langsat (Lanzones) from Negros Occidental to General Santos?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "If I export 1500kg of Langsat (Lanzones) from Zamboanga to Cagayan de Oro, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 3000kg of fresh Langsat (Lanzones) shipped from Mindoro to Batangas?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 2500kg of Langsat (Lanzones) from Antique to Tacloban?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "If I export 4000kg of Langsat (Lanzones) from Palawan to Iligan, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of fresh Langsat (Lanzones) shipped from Laguna to Naga?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 2000kg of Langsat (Lanzones) from Misamis Oriental to Butuan?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "If I export 3000kg of Langsat (Lanzones) from Sulu to Cotabato, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Langsat (Lanzones)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of jackfruit from Davao to Cagayan de Oro?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh jackfruit from General Santos to Iloilo?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of jackfruit from Bukidnon to Baguio?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "If I export 3000kg of jackfruit from Cotabato to Tacloban, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 1500kg of jackfruit from Isabela to Pangasinan?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2500kg of jackfruit from Misamis Oriental to Zamboanga City?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "If I export 4000kg of jackfruit from Agusan del Sur to Cebu, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of jackfruit from Surigao del Norte to Bacolod?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1500kg of jackfruit from Lanao del Sur to Ilocos Norte?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "What is the duty rate for 2000kg of jackfruit from Sarangani to La Union?", "response": {"product_description": "Jackfruit (including Cempedak and Nangka)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of fresh tamarinds from Laguna to Cebu?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of fresh tamarinds shipped from Pampanga to Davao?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "If I export 3000kg of fresh tamarinds from Iloilo to Bacolod, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1000kg of fresh tamarinds from Batangas to Baguio?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of fresh tamarinds shipped from Nueva Ecija to Tarlac?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "If I export 2500kg of fresh tamarinds from Zambales to Olongapo, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 4000kg of fresh tamarinds from Camarines Sur to Legazpi?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1800kg of fresh tamarinds shipped from Quezon to Bicol?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "If I export 1200kg of fresh tamarinds from Misamis Oriental to Cagayan de Oro, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for 6000kg of fresh tamarinds from Ilocos Sur to La Union?", "response": {"product_description": "Tamarinds, fresh", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of starfruits from Laguna to Cebu?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 2000kg of fresh starfruits from Bukidnon to Davao?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of starfruits from Iloilo to Bacolod?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for 3000kg of starfruits from Negros Occidental to Cagayan de Oro?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of fresh starfruits from Zambales to Baguio?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "How much freight value should I pay for 2500kg of starfruits from Palawan to Puerto Princesa?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of starfruits from Tarlac to Manila?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 6000kg of fresh starfruits from Isabela to Tuguegarao?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of starfruits from Camarines Sur to Naga?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for 10000kg of starfruits from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Starfruit", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of Salacca from Laguna to Cebu?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of fresh Salacca shipped from Bukidnon to Davao?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of Salacca from Mindoro to Manila?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "How much is the freight value for exporting 300kg of Salacca from Iloilo to Cagayan de Oro?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1500kg of fresh Salacca shipped from Pampanga to Baguio?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of Salacca from Pangasinan to Zamboanga?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1200kg of Salacca from Tarlac to Iloilo?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 800kg of fresh Salacca shipped from Nueva Ecija to Tacloban?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 400kg of Salacca from Bataan to General Santos?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "How much is the freight value for exporting 600kg of Salacca from Quezon to Butuan?", "response": {"product_description": "Salacca (snake fruit)", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of dragon fruit from Davao to Cebu?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of fresh dragon fruit shipped from Laguna to Bacolod?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 200kg of dragon fruit exported from Iloilo to General Santos?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "If I export 300kg of dragon fruit from Baguio to Manila, what is the dutiable value?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1500kg of dragon fruit shipped from Naga to Cagayan de Oro?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 800kg of dragon fruit from Batangas to Tacloban?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 400kg of fresh dragon fruit shipped from Zamboanga to Davao?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dragon fruit from Quezon to Iloilo, what is the customs duty?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of dragon fruit exported from Manila to Cebu?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "How much dutiable value do I need to pay for 600kg of dragon fruit shipped from General Santos to Baguio?", "response": {"product_description": "Dragon fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of sapodilla from Cagayan de Oro to Davao?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of sapodilla from General Santos to Cebu?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of sapodilla from Iloilo to Bacolod?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 3000kg of sapodilla from Zamboanga to Cotabato?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of sapodilla from Tacloban to Cagayan de Oro?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "How much dutiable value should I pay for 2500kg of sapodilla from Baguio to Manila?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of sapodilla from Dumaguete to Iloilo?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1800kg of sapodilla from Dipolog to Pagadian?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 6000kg of sapodilla from Laoag to Vigan?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1200kg of sapodilla from Tuguegarao to Tabuk?", "response": {"product_description": "Sapodilla (ciku fruit)", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of frozen strawberries from Davao to Cebu?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of frozen strawberries shipped from Iloilo to General Santos?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of frozen strawberries exported from Laguna to Baguio?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "If I export 3000kg of frozen strawberries from Cagayan Valley to Metro Manila, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1500kg of frozen strawberries shipped from Bacolod to Dumaguete?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 2500kg of frozen strawberries from Ilocos Norte to Pangasinan?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "If I export 4000kg of frozen strawberries from Nueva Ecija to Tarlac, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 6000kg of frozen strawberries shipped from Quezon City to Makati?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for 8000kg of frozen strawberries exported from Batangas to Tagaytay?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "If I export 9000kg of frozen strawberries from Pampanga to Angeles, what is the dutiable value/freight value/customs duty I need to pay?", "response": {"product_description": "Strawberries, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for frozen black, white, or red currants and gooseberries exported from Iloilo to Cebu?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 500kg of frozen gooseberries shipped from Baguio to Davao?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for frozen blackberries exported from Negros to Zamboanga?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "If I export 2000kg of frozen mulberries from Cagayan de Oro to Bacolod, how much customs duty do I need to pay?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for frozen loganberries exported from Laguna to General Santos?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1000kg of frozen raspberries shipped from Pampanga to Iloilo?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for frozen white currants exported from Tarlac to Cagayan de Oro?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "If I export 3000kg of frozen black currants from Batangas to Davao, how much customs duty do I need to pay?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for frozen red currants exported from Pangasinan to Zamboanga?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 1500kg of frozen gooseberries shipped from Baguio to Cagayan de Oro?", "response": {"product_description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of frozen other fruit and nuts from Iloilo to Cebu?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2000kg of frozen other fruit and nuts shipped from Baguio to Davao?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "If I export 1000kg of frozen other fruit and nuts from Laguna to Bacolod, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for 3000kg of frozen other fruit and nuts exported from Zamboanga to General Santos?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "How much is the duty for 1500kg of frozen other fruit and nuts shipped from Naga to Cagayan de Oro?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "If I export 2500kg of frozen other fruit and nuts from Tacloban to Iloilo, what is the customs duty?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for 4000kg of frozen other fruit and nuts exported from Batangas to Dagupan?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 1000kg of frozen other fruit and nuts shipped from Bataan to Tagbilaran?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "If I export 500kg of frozen other fruit and nuts from Palawan to Zamboanga, what is the dutiable value/freight value/customs duty?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of frozen other fruit and nuts shipped from Manila to Dumaguete?", "response": {"product_description": "Other fruit and nuts, frozen", "task": "duty_rate"}}
+{"question": "What is the duty rate for 500kg of provisionally preserved cherries exported from Davao to Cebu?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for 2000kg of provisionally preserved cherries shipped from Iloilo to Bacolod?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 1000kg of provisionally preserved cherries exported from General Santos to Tacloban?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "If I export 3000kg of provisionally preserved cherries from Cagayan de Oro to Zamboanga, what is the freight value I need to pay?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1500kg of provisionally preserved cherries shipped from Baguio to Dagupan?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2500kg of provisionally preserved cherries exported from Lucena to Naga?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 4000kg of provisionally preserved cherries shipped from Puerto Princesa to Coron?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "If I export 6000kg of provisionally preserved cherries from Batangas to Lipa, what is the customs duty I need to pay?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the freight value for 8000kg of provisionally preserved cherries shipped from Ilocos Sur to La Union?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 10000kg of provisionally preserved cherries exported from Quezon City to Makati?", "response": {"product_description": "Cherries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of provisionally preserved strawberries exported from Davao to Cebu?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of strawberries preserved in syrup from Bacolod to Manila?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "If I export 1000kg of strawberries preserved in sugar from Iloilo to Baguio, what is the dutiable value?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of strawberries preserved in honey from Cagayan de Oro to Davao?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1500kg of strawberries preserved in water from General Santos to Tacloban?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "If I export 2500kg of strawberries preserved in syrup from Cebu to Iloilo, what is the dutiable value?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of strawberries preserved in sugar from Manila to Cagayan de Oro?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 4000kg of strawberries preserved in honey from Davao to General Santos?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "If I export 2000kg of strawberries preserved in water from Iloilo to Cebu, what is the dutiable value?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the freight value for 1500kg of strawberries preserved in syrup from Bacolod to Tacloban?", "response": {"product_description": "Strawberries, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of provisionally preserved other fruits and nuts from Davao to Cebu?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 2000kg of provisionally preserved other fruits and nuts from Laguna to Iloilo?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1000kg of provisionally preserved other fruits and nuts from Mindoro to Bacolod?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much is the duty rate for exporting 3000kg of provisionally preserved other fruits and nuts from Pangasinan to Baguio?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 1500kg of provisionally preserved other fruits and nuts from Tarlac to Naga?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 2500kg of provisionally preserved other fruits and nuts from Camarines Sur to Manila?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of provisionally preserved other fruits and nuts from Cagayan de Oro to Dumaguete?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much is the duty rate for exporting 1000kg of provisionally preserved other fruits and nuts from Ilocos Norte to La Union?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 2000kg of provisionally preserved other fruits and nuts from Bataan to Olongapo?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 3000kg of provisionally preserved other fruits and nuts from Quezon to Romblon?", "response": {"product_description": "Other fruit and nuts, provisionally preserved", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of dried apricots from Davao to Cebu?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 1000kg of dried apricots shipped from Laguna to Bacolod?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2000kg of dried apricots exported from Iloilo to General Santos?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the freight value for 3000kg of dried apricots shipped from Cagayan de Oro to Zamboanga?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 1500kg of dried apricots exported from Batangas to Tacloban?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 2500kg of dried apricots shipped from Nueva Ecija to Baguio?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the freight value for 4000kg of dried apricots exported from Ilocos Norte to La Union?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 2000kg of dried apricots shipped from Isabela to Tuguegarao?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the dutiable value for 3000kg of dried apricots exported from Misamis Oriental to Iligan?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the freight value for 1000kg of dried apricots shipped from Quezon to Sorsogon?", "response": {"product_description": "Dried apricots", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of dried prunes from Cagayan Valley to Davao City?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of dried prunes shipped from Ilocos Sur to Cebu?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 1000kg of dried prunes from Bukidnon to General Santos?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dried prunes from Pangasinan to Baguio, how much customs duty should I pay?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "What is the duty rate for shipping 1500kg of dried prunes from La Union to Tacloban?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 2500kg of dried prunes exported from Nueva Ecija to Iloilo?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "What is the customs duty for 4000kg of dried prunes shipped from Misamis Oriental to Zamboanga?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "If I export 6000kg of dried prunes from Tarlac to Dumaguete, how much duty should I pay?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "What is the duty rate for 8000kg of dried prunes shipped from Quezon to Butuan?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "How much duty do I need to pay for 9000kg of dried prunes exported from Laguna to Bacolod?", "response": {"product_description": "Dried prunes", "task": "duty_rate"}}
+{"question": "What is the customs duty for dried apples exported from Baguio to Cebu?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 500kg of dried apples shipped from Davao to General Santos?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dried apples from Iloilo to Bacolod, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for dried apples from Manila to Laguna?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for 1000kg of dried apples exported from Cagayan de Oro to Ozamis?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried apples shipped from Pangasinan to Tarlac?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dried apples from Quezon City to Pasig, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "What is the customs duty for dried apples from Bataan to Pampanga?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1500kg of dried apples shipped from Zamboanga to Cotabato?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried apples exported from Ilocos Norte to Ilocos Sur?", "response": {"product_description": "Dried apples", "task": "duty_rate"}}
+{"question": "What is the customs duty for dried longans exported from Cagayan Valley to Cebu?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "If I export 500kg of dried longans from Bukidnon to Davao City, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for dried longans shipped from Ilocos Norte to Baguio?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried longans exported from Laguna to Tacloban?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dried longans from Misamis Oriental to General Santos, what is the customs duty I should pay?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "How much is the duty rate for dried longans shipped from Zambales to Iloilo?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "What is the customs duty for dried longans exported from Palawan to Zamboanga City?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "If I export 1000kg of dried longans from Negros Occidental to Cagayan de Oro, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for dried longans shipped from Pampanga to Butuan?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried longans exported from Tarlac to Bacolod?", "response": {"product_description": "Dried longans", "task": "duty_rate"}}
+{"question": "What is the customs duty for 500kg of dried tamarinds exported from Cagayan de Oro to Davao?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of dried tamarinds shipped from Iloilo to Bacolod?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried tamarinds exported from General Santos to Cebu?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dried tamarinds from Zamboanga to Manila, how much customs duty should I pay?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried tamarinds imported from abroad to Clark?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 3000kg of dried tamarinds exported from Cagayan de Oro to Iligan?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried tamarinds shipped from Tacloban to Cebu?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "If I export 1500kg of dried tamarinds from Davao to General Santos, how much customs duty should I pay?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "What is the duty rate for dried tamarinds imported from abroad to Iloilo?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "How much is the customs duty for 2500kg of dried tamarinds exported from Bacolod to Iloilo?", "response": {"product_description": "Dried tamarinds", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 500kg of other dried fruits from Cagayan Valley to Davao City?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of other dried fruits from Laguna to Iloilo?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "If I export 1500kg of other dried fruits from Nueva Ecija to Bacolod, what is the dutiable value?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 1000kg of other dried fruits from Pampanga to Cebu?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "How much is the freight value for exporting 3000kg of other dried fruits from Ilocos Norte to General Santos?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 2500kg of other dried fruits from Batangas to Zamboanga City?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "If I export 4000kg of other dried fruits from Isabela to Butuan, what is the customs duty?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "How much is the dutiable value for exporting 6000kg of other dried fruits from Pangasinan to Tacloban?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for exporting 8000kg of other dried fruits from Tarlac to Digos?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "If I export 12000kg of other dried fruits from Quezon to Pagadian, what is the freight value?", "response": {"product_description": "Other dried fruit", "task": "duty_rate"}}
+{"question": "What is the customs duty for a 500kg shipment of mixtures of nuts or dried fruits from Cagayan Valley to Davao City?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of mixtures of nuts or dried fruits from Laguna to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the dutiable value for a 1000kg shipment of mixtures of nuts or dried fruits from Iloilo to Bacolod?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 3000kg of mixtures of nuts or dried fruits from Pampanga to Baguio?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the freight value for a 1500kg shipment of mixtures of nuts or dried fruits from Nueva Ecija to Tarlac?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 2500kg of mixtures of nuts or dried fruits from Isabela to Tuguegarao?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the dutiable value for a 500kg shipment of mixtures of nuts or dried fruits from Zamboanga to Davao?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty do I need to pay for exporting 4000kg of mixtures of nuts or dried fruits from Ilocos Norte to La Union?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the freight value for a 2000kg shipment of mixtures of nuts or dried fruits from Batanes to Cagayan?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 3500kg of mixtures of nuts or dried fruits from Misamis Oriental to Cagayan de Oro?", "response": {"product_description": "Mixtures of nuts or dried fruits of which cashew nuts or Brazil nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of mixed nuts from Cebu to Davao?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of mixed nuts from Baguio to Manila?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of mixed nuts from Iloilo to Cagayan de Oro?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "If I export 3000kg of mixed nuts from Tacloban to Bacolod, how much duty should I pay?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the duty rate for 1500kg of mixed nuts from General Santos to Zamboanga?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2500kg of mixed nuts from La Union to Dagupan?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for 800kg of mixed nuts from Dumaguete to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "If I export 4000kg of mixed nuts from Ilocos Norte to Ilocos Sur, how much duty should I pay?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the duty rate for 600kg of mixed nuts from Batangas to Laguna?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 1200kg of mixed nuts from Misamis Oriental to Misamis Occidental?", "response": {"product_description": "Mixtures of nuts or dried fruits of which other nuts predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for a 500kg shipment of dates and nuts from Cagayan Valley to Davao City?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of date and nut mix from Iloilo to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "What is the dutiable value for a 1000kg shipment of date and nut mix from Bukidnon to Manila?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 3000kg of dates and nuts from Laguna to Bacolod?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "What is the freight value for a 2000kg shipment of date and nut mix from Pangasinan to Baguio?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 1500kg of dates and nuts from Misamis Oriental to General Santos?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for a 2500kg shipment of date and nut mix from Tarlac to Iloilo?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "How much dutiable value should I pay for exporting 4000kg of dates and nuts from Nueva Ecija to Cagayan Valley?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "What is the freight value for a 1000kg shipment of date and nut mix from Quezon to Manila?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 3000kg of dates and nuts from Leyte to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which dates predominate by weight", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of mixtures of nuts or dried fruits from Iloilo to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 2000kg of mixtures of nuts or dried fruits from Bacolod to Davao?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for mixtures of nuts or dried fruits from Laguna to Manila?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the dutiable value for exporting 1500kg of mixtures of nuts or dried fruits from Palawan to Zamboanga?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 1000kg of mixtures of nuts or dried fruits from Cagayan de Oro to Baguio?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the freight value for mixtures of nuts or dried fruits from Ilocos Norte to La Union?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the customs duty for mixtures of nuts or dried fruits from Misamis Oriental to Cebu?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "How much duty should I pay for exporting 3000kg of mixtures of nuts or dried fruits from Quezon to Bataan?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the dutiable value for mixtures of nuts or dried fruits from Pangasinan to Dagupan?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "How much customs duty should I pay for exporting 2000kg of mixtures of nuts or dried fruits from Batangas to Manila?", "response": {"product_description": "Mixtures of nuts or dried fruits of which avocados or oranges or mandarins (including tangerines and satsumas) predominate by weight", "task": "duty_rate"}}
+{"question": "What is the duty rate for exporting 500kg of mixed nuts from Laguna to Cebu?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 2000kg of dried fruits from Iloilo to Davao?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "What is the customs duty for 1000kg of mixed nuts from Batangas to Zamboanga?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "If I export 3000kg of dried fruits from Cagayan Valley to Pampanga, what is the duty rate?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "How much is the duty for 1500kg of mixed nuts from Nueva Ecija to Bacolod?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2500kg of dried fruits from Bukidnon to General Santos?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "If I export 4000kg of mixed nuts from Pangasinan to Iloilo, what is the duty rate?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "How much duty should I pay for 1000kg of dried fruits from Misamis Oriental to Cebu?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "What is the customs duty for 2000kg of mixed nuts from Isabela to Davao?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "If I export 6000kg of dried fruits from Bataan to Pampanga, what is the duty rate?", "response": {"product_description": "Other mixtures of nuts or dried fruits", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for peel of citrus fruit or melons from Davao to Cebu?", "response": {"product_description": "Peel of citrus fruit or melons, fresh", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 500kg of frozen melon peels from Laguna to Manila?", "response": {"product_description": "Peel of citrus fruit or melons, frozen", "task": "duty_rate"}}
+{"question": "If I export 2000kg of dried melon peels from Iloilo to Tacloban, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Peel of citrus fruit or melons, dried", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1000kg of provisionally preserved melon peels in brine from Cagayan to Baguio?", "response": {"product_description": "Peel of citrus fruit or melons, provisionally preserved in brine", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 300kg of melon peels preserved in sulphur water from Pampanga to Zamboanga?", "response": {"product_description": "Peel of citrus fruit or melons, preserved in sulphur water", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1500kg of fresh citrus fruit peels from Batangas to Naga?", "response": {"product_description": "Peel of citrus fruit or melons, fresh", "task": "duty_rate"}}
+{"question": "If I export 2500kg of frozen citrus fruit peels from Misamis Oriental to Cagayan de Oro, what is the dutiable value/freight value/customs duty I should pay?", "response": {"product_description": "Peel of citrus fruit or melons, frozen", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 400kg of dried citrus fruit peels from Negros Occidental to Bacolod?", "response": {"product_description": "Peel of citrus fruit or melons, dried", "task": "duty_rate"}}
+{"question": "How much customs duty will I pay for 1200kg of provisionally preserved citrus fruit peels in sulphur water from Ilocos Norte to Laoag?", "response": {"product_description": "Peel of citrus fruit or melons, provisionally preserved in sulphur water", "task": "duty_rate"}}
+{"question": "What is the customs duty rate for 1800kg of fresh melon peels from Isabela to Tuguegarao?", "response": {"product_description": "Peel of citrus fruit or melons, fresh", "task": "duty_rate"}}
