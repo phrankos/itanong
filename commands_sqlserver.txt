@@ -1,0 +1,5 @@
+sudo chown -R mysql:mysql /var/lib/mysql
+sudo chmod -R 755 /var/lib/mysql
+sudo setenforce 0
+sudo systemctl start mysqld.service
+sudo systemctl stop mysqld.service
