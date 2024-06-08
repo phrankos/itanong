@@ -1,6 +1,19 @@
-{% extends "layout.html" %}
-
-{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customs AI Query System</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 800px;
+        }
+    </style>
+</head>
 <div class="container mt-5">
     <div class="card shadow-sm">
         <div class="card-header bg-primary text-white">
@@ -10,7 +23,7 @@
             <div id="chat-history" class="mb-3 flex-grow-1 overflow-auto">
                 <!-- Chat history will be dynamically populated here -->
             </div>
-            <form id="chatbot-form" class="input-group mb-3">
+            <form id="chatbot-form" class="input-group mb-3" method="post">
                 <textarea class="form-control" id="query" name="query" rows="1" placeholder="Type your query here..."></textarea>
                 <div class="input-group-append">
                     <button type="submit" class="btn btn-primary">Submit</button>
@@ -20,6 +33,7 @@
     </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script>
     $(document).ready(function(){
         $('#chatbot-form').on('submit', function(event){
@@ -31,13 +45,14 @@
             $('#chat-history').append('<div class="d-flex justify-content-end mb-2"><div class="bg-light text-dark p-2 rounded">' + query + '</div></div>');
             
             $.ajax({
-                url: '{{ url_for("chatbot") }}',
+                url: '/', // assuming your API endpoint is at /api
                 type: 'POST',
                 contentType: 'application/json',
-                data: JSON.stringify({ query: query }),
+                data: query,
                 success: function(response){
+                    console.log(response.text)
                     // Append bot response to chat history
-                    $('#chat-history').append('<div class="d-flex justify-content-start mb-2"><div class="bg-primary text-white p-2 rounded">' + response.response + '</div></div>');
+                    $('#chat-history').append('<div class="d-flex justify-content-start mb-2"><div class="bg-primary text-white p-2 rounded">' + response + '</div></div>');
                     // Scroll to the bottom of chat history
                     $('#chat-history').scrollTop($('#chat-history')[0].scrollHeight);
                 },
@@ -48,4 +63,3 @@
         });
     });
 </script>
-{% endblock %}
